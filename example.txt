@@ -1,0 +1,74 @@
+New Maple Custom Kit
+C0 5682 HH Dark Pedal 1-2 St
+C#0 5224 Sd Brush Soft St
+D0 5236 Sd Brush Swir St
+D#0 5227 Sd Brush Med St
+E0 5239 Sd Brush SwirAtt St
+F0 5142 Sd Metal SnRoll St
+F#0 2860 Castanet1
+G0 5061 Sd Oak 2 St
+G#0 2856 Stick2
+A0 4479 Bd Maple Close 2 L
+A#0 5136 Sd Metal OpRm 2 St
+B0 4481 Bd Maple Open 1-2 St
+C1 4481 Bd Maple Open 1-2 St
+C#1 5139 Sd Metal ClRm St
+D1 5112 Sd Metal 1-4 St
+D#1 5142 Sd Metal SnRoll St
+E1 5115 Sd Metal 1-OpRm St
+F1 5978 Tom Maple Flr 1-2 RL
+F#1 5662 HH Dark Closed 1-4St
+G1 5983 Tom Maple Flr 2 St
+G#1 5551 HH Open 1-2St
+A1 5971 Tom Maple Mid 2 St
+A#1 5694 HH Dark Open 1-2 St
+B1 5963 Tom Maple Mid 1-2 St
+C2 5959 Tom Maple Hi 2 St
+C#2 6181 Crash Brite St
+D2 5951 Tom Maple Hi 1-2 St
+D#2 6233 Ride Brite St
+E2 6288 China3 St
+F2 6237 Ride Brite Cup St
+F#2 2846 Tambourine2 Sw
+G2 6297 Splash2 St
+G#2 3225 Cowbell3 Sw
+A2 6185 Crash Dark St
+A#2 2880 Vibraslap2
+B2 6241 Ride Warm St
+C3 3000 Bongo2 Hi Open 2
+C#3 3004 Bongo2 Lo Open 2
+D3 2944 Conga2 Hi Slap 2
+D#3 2947 Conga2 Hi Open 2
+E3 2950 Conga2 Lo Open 1
+F3 3038 Timbale2 Hi 2
+F#3 3042 Timbale2 Lo 2
+G3 3105 Agogo1 Hi
+G#3 3106 Agogo1 Lo
+A3 3065 Cabasa1B 1-4
+A#3 3059 Maracas1 Slur
+B3 3220 Whistle
+C4 3220 Whistle
+C#4 3118 MetalGuiro Short 1-2
+D4 3121 MetalGuiro Long
+D#4 3218 Claves2
+E4 2914 Resin Block Small
+F4 2915 Resin Block Large
+F#4 2975 Cuica1 Hi
+G4 2974 Cuica1 Lo
+G#4 2884 Triangle1 Mute
+A4 2883 Triangle1 Open
+A#4 2820 ShakerB Sw
+B4 2909 Sleigh Bell2
+C5 2912 Wind Chime 1
+C#5 2889 Hand Clap1 St
+D5 3126 Surdo2 Open
+D#5 2941 Conga2 Hi Tip
+E5 2940 Conga2 Hi Heel
+F5 2942 Conga2 Hi Slap 1-2
+F#5 2948 Conga2 Hi Mute
+G5 2945 Conga2 Hi Open 1-2
+G#5 2952 Conga2 Lo Slide
+A5 2949 Conga2 Lo Open 1-2
+A#5 3278 Djembe2 Mute
+B5 3276 Djembe2 Lo
+C6 3277 Djembe2 Slap
