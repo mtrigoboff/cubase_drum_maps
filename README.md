@@ -26,4 +26,4 @@ The Python code will create a Cubase drum map file named **yourtextfile.drm**. N
 
 Once you have created your drum map file, you just need to import it into Cubase as described in the Cubase documentation.
 
-The provided zip file expands into a folder that includes these instructions, the Python code (**create_dm.py**), an empty Cubase drum map file (**empty.drm**) that is used by the Python code, and some example text files and the drum maps that the code produced from them.
+_This was originally released on [yamahasynth.com](https://www.yamahasynth.com/ask-a-question/make-your-own-cubase-drum-maps)._
