@@ -48,5 +48,8 @@ def createDrumMap(fileName):
 	for noteNumber in range(lastNoteNumber + 1, 128):
 		order[item].set('value', str(noteNumber))
 		item += 1
-
-	tree.write(os.path.splitext(fileName)[0] + '.drm')
+	
+	drumMapFileName = os.path.splitext(fileName)[0] + '.drm'
+	tree.write(drumMapFileName)
+	
+	return drumMapFileName
