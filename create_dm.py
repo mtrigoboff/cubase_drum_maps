@@ -15,7 +15,7 @@ def buildNoteNumbers():
 			octaveIndex += 1
 	return noteNumbers
 
-def main(fileName):
+def createDrumMap(fileName):
 	noteNumbers = buildNoteNumbers()
 	tree = et.parse('empty.drm')
 	root = tree.getroot()
@@ -50,7 +50,3 @@ def main(fileName):
 		item += 1
 
 	tree.write(os.path.splitext(fileName)[0] + '.drm')
-
-# when invoked from the command line
-if __name__ == '__main__':
-	main(sys.argv[1])
